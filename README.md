@@ -38,6 +38,7 @@ In this repo, we will collect some useful rotate detection methods, and code is 
 05 | **CVPR** | Beyond Bounding-Box: Convex-Hull Feature Adaptation for Oriented and Densely Packed Object Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Guo_Beyond_Bounding-Box_Convex-Hull_Feature_Adaptation_for_Oriented_and_Densely_Packed_CVPR_2021_paper.html)/[Code](https://github.com/SDL-GuoZonghao/BeyondBoundingBox)
 06 | **CVPR** | Learning High-Precision Bounding Box for Rotated Object Detection via Kullback-Leibler Divergence | [Paper](https://arxiv.org/abs/2106.01883)/[Code](https://github.com/yangxue0827/RotationDetection)
 06 | **ICCV** | Oriented R-CNN for Object Detection | [Paper](https://arxiv.org/abs/2108.05699)/[Code](https://github.com/jbwang1997/OBBDetection)
+07 | **arxiv** | DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection | [Paper](https://arxiv.org/pdf/2109.06148.pdf)/[Code](https://github.com/steven-lang/DAFNe)
 ## 2019      
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
