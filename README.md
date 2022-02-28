@@ -57,6 +57,8 @@ In this repo, we will collect some useful rotate detection methods, and code is 
 :-: | :-: | :-  | :-: 
 01 | **ICML** | Rethinking Rotated Object Detection with Gaussian Wasserstein Distance Loss | [Paper](https://arxiv.org/abs/2101.11952)/[Code](https://github.com/zhanggefan/rotmmdet)
 02 | **CVPR** | Learning High-Precision Bounding Box for Rotated Object Detection via Kullback-Leibler Divergence | [Paper](https://arxiv.org/abs/2106.01883)/[Code](https://github.com/yangxue0827/RotationDetection)
+02 | **arxiv** | The KFIoU Loss for Rotated Object Detection | [Paper](https://arxiv.org/pdf/2201.12558v2.pdf)/[Code](https://github.com/open-mmlab/mmrotate/blob/main/configs/kfiou/README.md)
+
 ## 2020
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
